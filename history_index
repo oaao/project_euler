@@ -8,3 +8,7 @@ A record of when each exercise was completed and begun.
                     a. for-loop all multiples, nested for-loop all integers in range, sum of cumulative set
                     b. list expression with stepped ranges for each multiple, sum of cumulative set
                     c. compound list expression, sum of its set (single line!)
+
+002. Sum of all even Fibonacci numbers under 4,000,000.
+     [ 2016-08-02 ]
+                    a. define Fibonacci constructor separately; define summation of selected terms separately
