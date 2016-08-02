@@ -2,5 +2,10 @@ HISTORY INDEX
 
 A record of when each exercise was completed and begun.
 
+[ begun / finished ] else [ completed ] if both dates are the same.
+
 001. Sum of all multiples of 3 or 5 below 1000.
-     [b. 2016-08-02]
+     [ 2016-08-02 ]
+                    a. for-loop all multiples, nested for-loop all integers in range, sum of cumulative set
+                    b. list expression with stepped ranges for each multiple, sum of cumulative set
+                    c. compound list expression, sum of its set (single line!)
