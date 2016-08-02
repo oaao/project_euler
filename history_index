@@ -11,4 +11,5 @@ A record of when each exercise was completed and begun.
 
 002. Sum of all even Fibonacci numbers under 4,000,000.
      [ 2016-08-02 ]
+                    _PREP: Fibonacci construction via three terms, list indices (recursive), and two terms (recursive)
                     a. define Fibonacci constructor separately; define summation of selected terms separately
