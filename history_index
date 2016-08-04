@@ -11,5 +11,13 @@ A record of when each exercise was completed and begun.
 
 002. Sum of all even Fibonacci numbers under 4,000,000.
      [ 2016-08-02 ]
-                    _PREP: Fibonacci construction via three terms, list indices (recursive), and two terms (recursive)
+                    _PREP: Fibonacci construction via: three terms, list indices (recursive), and two terms (recursive)
                     a. define Fibonacci constructor separately; define summation of selected terms separately
+
+003. Largest prime factor of 600,851,475,143.
+     [ 2016-08-03 ]
+                    _PREP: Construct prime numbers sequence via: difference of squares, nested list expression
+                    a. test for factors in all numbers up to x, list all primes up to largest factor, compare
+                    b. test for factors up to square root of x, list all primes up to largest factor, compare
+                    c. test for factors up to square root of x, check if all factors are prime
+                    d. --INCOMPLETE--

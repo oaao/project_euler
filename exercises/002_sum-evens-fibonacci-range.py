@@ -25,4 +25,3 @@ def sum_divisible(terms, div_by):
 
 # Fibonacci term limit is 4,000,000 as dictated by exercise
 fib_sum_evens = sum_divisible(fib_constr(4000000), 2)
-print(fib_sum_evens)
